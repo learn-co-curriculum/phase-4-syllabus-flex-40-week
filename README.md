@@ -20,23 +20,30 @@ the right pace. The lessons marked with a ⭐️ are **milestones** that are use
 to check your understanding of the material you've learned. If you feel you're
 falling behind, make sure to communicate with your instructor.
 
-## Week 25 - 26
+## Weeks 28 - 29
 
 To get started, you'll be learning the fundamentals of Rails and how to organize
 your backend code to build out features quickly. You'll also learn some
 conventions, like REST, that are common in the world of API development.
 
-**Total Assignments: (23)**
+### Week 28
+
+**Total Assignments: (20)**
 
 - Phase 4 Overview (1)
 - Rails Fundamentals (19)
   - ⭐️ Rails Fundamentals Quiz
+
+### Week 29
+
+**Total Assignments: (26)**
+
 - CRUD with Rails (19)
   - ⭐️ Putting it All Together: Rails CRUD
 - Validations (7)
   - ⭐️ Validations Quiz
 
-## Week 27 - 28
+## Weeks 30 - 31
 
 Once you've gained some familiarity with Rails, it's time to start adding some
 more complexity. You learn some best practices for communicating between the
@@ -44,18 +51,25 @@ frontend and the backend. You'll also learn how to work with more complex
 domains involving multiple related models, and how to structure the response
 from the server to make it easier to work with on the frontend.
 
-**Total Assignments: (23)**
+### Week 30
+
+**Total Assignments: (19)**
 
 - Client-Server Communication (10)
   - ⭐️ Putting it All Together: Client-Server Communication
 - Active Record Associations (9)
   - ⭐️ Active Record Associations Quiz
+
+### Week 31
+
+**Total Assignments: (10)**
+
 - Serialization (6)
   - ⭐️ Active Model Serializer Lab
 - Applying Your Learning (4)
   - ⭐️ Rails Practice Challenge - Gym
 
-## Week 29 - 30
+## Weeks 32 - 33
 
 The last key concepts from this phase are learning how to **authenticate** and
 **authorize** users in your application, and how to **deploy** your application
@@ -70,14 +84,21 @@ tool for React. Redux is beneficial for larger applications, so you may want to
 work on these lessons prior to Phase 5 if you're interested in using Redux in
 your final project.
 
-**Total Assignments: (15)**
+### Week 32
+
+**Total Assignments: (18)**
 
 - Auth (18)
   - ⭐️ Putting it All Together: Auth
+
+### Week 33
+
+**Total Assignments: (6)**
+
 - Deploying (6)
   - ⭐️ Deploying A Rails-React App to Heroku
 
-## Week 31 - 32
+## Weeks 34 - 35
 
 It's time for the last project before your capstone! Use this project to
 solidify your understanding of Rails, and build something you can refer back to
@@ -87,3 +108,9 @@ application from scratch with a Rails backend and a React frontend, since you'll
 be using that same stack for your final project.
 
 Details for the project can be found in the Milestones module.
+
+## Week 36
+
+Take a break! You've come a long way. Take some time to process everything
+you've learned so far and give yourself a well-deserved rest! You'll be
+refreshed and ready to tackle your capstone project!
